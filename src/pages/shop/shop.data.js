@@ -1,8 +1,8 @@
 const SHOP_DATA = [
 	{
 		id: 1,
-		title: 'Hats',
-		routeName: 'hats',
+		title: 'Gorras',
+		routeName: 'gorras',
 		items: [
 			{
 				id: 1,
@@ -71,8 +71,8 @@ const SHOP_DATA = [
 	},
 	{
 		id: 2,
-		title: 'Sneakers',
-		routeName: 'sneakers',
+		title: 'Zapatos',
+		routeName: 'zapatos',
 		items: [
 			{
 				id: 10,
@@ -134,8 +134,8 @@ const SHOP_DATA = [
 	},
 	{
 		id: 3,
-		title: 'Jackets',
-		routeName: 'jackets',
+		title: 'Chaquetas',
+		routeName: 'chaquetas',
 		items: [
 			{
 				id: 18,
@@ -176,8 +176,8 @@ const SHOP_DATA = [
 	},
 	{
 		id: 4,
-		title: 'Womens',
-		routeName: 'womens',
+		title: 'Mujeres',
+		routeName: 'mujeres',
 		items: [
 			{
 				id: 23,
@@ -232,8 +232,8 @@ const SHOP_DATA = [
 	},
 	{
 		id: 5,
-		title: 'Mens',
-		routeName: 'mens',
+		title: 'Hombres',
+		routeName: 'hombres',
 		items: [
 			{
 				id: 30,
